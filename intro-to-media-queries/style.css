@@ -1,0 +1,10 @@
+p {
+    font-size: 14px;
+  }
+  
+  @media all and (min-width: 800px) {
+      /*  The paragraph should only be displayed at 24 pixels when the browser has a width of 800 pixels or greater. */
+    p {
+      font-size: 24px;
+    }
+  }
