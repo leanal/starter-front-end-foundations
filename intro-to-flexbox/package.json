@@ -1,0 +1,12 @@
+{
+  "name": "intro-to-flexbox",
+  "version": "1.0.0",
+  "description": "Take a few moments to read through the HTML and CSS and make sure that you understand how it all works. Use VSCode Live Server to launch a local development server to serve the `index.html` file.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
